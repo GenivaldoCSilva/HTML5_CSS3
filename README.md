@@ -22,7 +22,7 @@ Aprenda HTML5, CSS3 e t√©cnicas de SEO desenvolvendo passo a passo do "zero" at√
 ### Imagens
 [pixabay](https://pixabay.com/pt/)
 
-[icon-icons](https://icon-icons.com/pt/)
+[icon-icons](https://icon-icons.chom/pt/)
 
 [iconfinder](https://www.iconfinder.com/)
 
